@@ -14,16 +14,16 @@ const Sidebar = () => {
     <label htmlFor="my-drawer-2" aria-label="close sidebar" className="drawer-overlay"></label> 
     <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
       {/* Sidebar content here */}
-      <li><a>Dashboad</a></li>
-      <li><a>Emplyoees</a></li>
-      <li><a>Sidebar Item 1</a></li>
-      <li><a>Sidebar Item 1</a></li>
-      <li><a>Sidebar Item 1</a></li>
-      <li><a>Sidebar Item 2</a></li>
-      <li><a>Sidebar Item 2</a></li>
-      <li><a>Sidebar Item 2</a></li>
-      <li><a>Sidebar Item 2</a></li>
-      <li><a>Sidebar Item 2</a></li>
+      <li><a>Dashboard</a></li>
+      <li><a>Employees</a></li>
+      <li><a>Clients</a></li>
+      <li><a>Projects</a></li>
+      <li><a>Leads</a></li>
+      <li><a>Tickets</a></li>
+      <li><a>Sales</a></li>
+      <li><a>Accounting</a></li>
+      <li><a>Payroll</a></li>
+      <li><a>Policies</a></li>
     </ul>
   
   </div>
