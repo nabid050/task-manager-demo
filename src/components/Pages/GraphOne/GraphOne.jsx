@@ -27,6 +27,7 @@ class GraphOne extends Component {
     return (
       <div className="app">
         <div className="row">
+        <h1 className='mt-3 text-center font-bold'>Total Revenue</h1>
           <div className="mixed-chart">
             <Chart
               options={this.state.options}
