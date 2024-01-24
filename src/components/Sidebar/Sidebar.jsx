@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './style.css'
 const Sidebar = () => {
     return (
         <div>
@@ -12,7 +12,7 @@ const Sidebar = () => {
   </div> 
   <div className="drawer-side">
     <label htmlFor="my-drawer-2" aria-label="close sidebar" className="drawer-overlay"></label> 
-    <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
+    <ul className="menu p-4 w-80 min-h-full bg-black text-white">
       {/* Sidebar content here */}
       <li><a>Dashboard</a></li>
       <li><a>Employees</a></li>
